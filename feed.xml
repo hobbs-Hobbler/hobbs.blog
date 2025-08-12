@@ -3,7 +3,7 @@
     <title>Cogitate and Percolate</title>
     <link href="https://hobbs-hobbler.github.io/hobbs.blog/feed.xml" rel="self" />
     <link href="https://hobbs-hobbler.github.io/hobbs.blog" />
-    <updated>2025-08-04T16:32:23-04:00</updated>
+    <updated>2025-08-12T16:30:25-04:00</updated>
     <author>
         <name>Heather Dodds</name>
     </author>
@@ -19,6 +19,7 @@
         <media:content url="https://hobbs-hobbler.github.io/hobbs.blog/media/posts/740/sasun-bughdaryan-8admGA18lBs-unsplash.jpg" medium="image" />
             <category term="privacy"/>
             <category term="policy"/>
+            <category term="Random"/>
 
         <updated>2025-07-21T18:23:51-04:00</updated>
             <summary>
@@ -620,7 +621,6 @@
             <category term="TasteOVision"/>
             <category term="Surprise"/>
             <category term="SmellOVision"/>
-            <category term="Random"/>
             <category term="Proprioception"/>
             <category term="Motivation"/>
             <category term="Metaverse"/>
